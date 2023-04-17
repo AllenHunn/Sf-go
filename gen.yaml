@@ -4,6 +4,7 @@ generation:
   sdkClassName: SDK
   sdkFlattening: true
   singleTagPerOp: false
+  baseServerUrl: localhost.com
 go:
   version: ""
   packageName: com.example.cats
